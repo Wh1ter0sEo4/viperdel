@@ -18,7 +18,7 @@ Make the file exec :
 
 Execute ! :
 
-` ./viperdel `
+` ./viperdel.sh `
 
 ## How does it work ?
 
