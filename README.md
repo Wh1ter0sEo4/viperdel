@@ -14,7 +14,7 @@ Clone `viperdel` rep :
 
 Make the file exec :
 
-` cd viperdel/linux && chmod +x viperdel `
+` cd viperdel/linux && chmod +x viperdel.sh `
 
 Execute ! :
 
