@@ -1,6 +1,6 @@
 # ViPeR-DeL
-- A 'script' that will destroy your linux machine in seconds ,use this at you own risk !
-## Installation
+- A 'script' that will destroy your Windows/Linux machine in seconds ,use this at you own risk !
+## Installation on Linux
 
 - Open up a terminal
 
@@ -14,7 +14,7 @@ Clone `viperdel` rep :
 
 Make the file exec :
 
-` cd viperdel && chmod +x viperdel `
+` cd viperdel/linux && chmod +x viperdel `
 
 Execute ! :
 
