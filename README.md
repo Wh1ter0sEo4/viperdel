@@ -20,8 +20,19 @@ Execute ! :
 
 ` ./viperdel.sh `
 
-## How does it work ?
+## How does it work ? (Linux)
 
 - `viperdel` executes some deadly commands and tries to delete all system files, format the hard drive to ext3, fork bomb the machine and much more...
 
 (take a look at `viperdel` file to check all the deadly commands!)
+
+## ViPer-Del On Windows
+
+- Download the `viperdel.bat` file on the windows folder and execute it !
+
+## How does it work ? (Windows)
+
+- `viperdel` will execute some deadly commands to delete boot/system32/other_important_files. 
+
+Created by me, please do not use this to harm other ppls computers, and use it at your own risk.
+Check out my instagram : usaym_bs
