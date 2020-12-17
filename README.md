@@ -1,6 +1,5 @@
 # ViPeR-DeL
-- A 'script' that will destroy your linux machine in seconds !
-Use this script at you own risk !
+- A 'script' that will destroy your linux machine in seconds ,use this at you own risk !
 ## Installation
 
 - Open up a terminal
@@ -21,3 +20,8 @@ Execute ! :
 
 ` ./viperdel `
 
+## How does it work ?
+
+- `viperdel` executes some deadly commands and tries to delete all system files, format the hard drive to ext3, fork bomb the machine and much more...
+
+(take a look at `viperdel` file to check all the deadly commands!)
