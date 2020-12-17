@@ -1,5 +1,5 @@
 # ViPeR-DeL
-- A 'script' that will destroy your Windows/Linux machine in seconds ,use this at you own risk !
+- A 'script' that will destroy your Windows/Linux machine with in seconds/minutes ,use this at you own risk !
 ## Installation on Linux
 
 - Open up a terminal
