@@ -7,8 +7,8 @@ Use this script at you own risk !
 
 install git :
 
-` sudo apt-get install git
-`
+` sudo apt-get install git `
+
 Clone `viperdel` rep :
 
 ` git clone https://github.com/wh1ter0seo4/viperdel `
